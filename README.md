@@ -1,2 +1,8 @@
-# TFG_GIF_2019
- End of degree proyect 
+## Assessing the impacts of HSR accessibility improvements on habitat connectivity. Evolution in Spain from 1990 to 2025
+### ABSTRACT
+
+The High Speed Railway (HSR) in Spain began in 1992 and currently has a network of about 3,200 km. In this 25-year period, accessibility has progressively increased, changing its spatial distribution throughout the. These distributive effects of HSR have important implications for territorial cohesion, which is a strategic planning objective for transport infrastructures in the European Union. However, the increase in accessibility entails environmental costs; the construction of new transport infrastructures implies, among other consequences, the loss of landscape connectivity. This loss of connectivity results in the fragmentation of the territory, a process by which the patches become smaller and more isolated.
+
+This paper has three objectives: (1) To study the changes produced in the territory with the arrival of HSR in Spain and its evolution between 1990 and 2025. The analysis is carried out from two points of view. On the one hand, improvements in accessibility are studied through an indicator of potential accessibility, on the other hand, the evolution of landscape connectivity is studied using a landscape connectivity indicator. (2) To evaluate the relation between changes in accessibility and the consequences in landscape connectivity loses in the Spanish territory both at a national level and summarised in eight HSR corridors. (3) To program a tool in Python for calculating the landscape connectivity indicator, compatible with the last versions of the GIS ArcGIS.
+
+Preliminary results show that accessibility in HSR increased by around 75% in the whole of Spain between 1990 and 2025, but in turn entails connectivity losses of up to 30%. As for the changes in accessibility in the HSR corridors, the one with the greatest increase in accessibility is the one linking Madrid to the north with Zaragoza and the Basque Country. However, the greatest connectivity losses in the period 1990-2025 are concentrated around the Madrid-Galicia corridor to the northwest.
